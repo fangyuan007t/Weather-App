@@ -13,7 +13,7 @@ A simple desktop weather application built with Python that displays real-time w
 
 ## 🖼️ Screenshot
 ```md
-![Weather App](./screenshots/weather-app.jpg)
+![Weather App](./screenshots/weather-app.png)
 ```
 
 ---
