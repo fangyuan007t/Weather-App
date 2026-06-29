@@ -6,18 +6,14 @@ A simple desktop weather application built with Python that displays real-time w
 
 - 🔍 Search weather by city
 - 🌡️ Current temperature
-- 🤒 Feels like temperature
-- 💧 Humidity
-- 💨 Wind speed
 - ☁️ Weather condition
 - 📝 Error handling for invalid cities
-- 🔐 API key stored securely using `.env`
 
 ---
 
 ## 🖼️ Screenshot
 ```md
-![Weather App](./screenshots/weather-app.png)
+![Weather App](./screenshots/weather-app.jpg)
 ```
 
 ---
