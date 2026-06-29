@@ -9,12 +9,6 @@ A simple desktop weather application built with Python that displays real-time w
 - ☁️ Weather condition
 - 📝 Error handling for invalid cities
 
-## 🖼️ Screenshot
-```md
-![Weather App](./weather-app.jpg)
-```
-
-
 ## 🛠️ Technologies Used
 
 - Python
